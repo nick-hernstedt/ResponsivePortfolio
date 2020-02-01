@@ -4,7 +4,9 @@
   "description": "responsive portfolio webpage",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass --watch scss/style.scss dist/css/style.css"
+    "sass": "node-sass --watch scss/style.scss dist/css/style.css",
+    "scss": "node-sass --watch scss/_menu.scss dist/css/style.css",
+    "nsass": "node-sass --watch scss/_config.scss dist/css/style.css"
   },
   "repository": {
     "type": "git",
