@@ -128,7 +128,8 @@ h3 {
   h3.sm-heading {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: rgba(54, 58, 47, 0.5); }
+    width: 40%;
+    background: rgba(54, 58, 47, 0.6); }
 
 a {
   color: #fff;
