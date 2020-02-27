@@ -85,6 +85,7 @@ main {
   .bio-image {
     grid-area: bioimage;
     margin: auto;
+    height: 300px;
     border-radius: 50%;
     border: $secondary-color 3px solid;
   }
@@ -138,6 +139,10 @@ main {
   justify-content: space-evenly;
   align-items: center;
   margin-top: 1rem;
+
+  #resumeBox {
+    margin-top: 8%;
+  }
 
   div {
     font-size: 2rem;
